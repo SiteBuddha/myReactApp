@@ -49,6 +49,12 @@
     component: './TableList',
   },
   {
+    name: 'test.list',
+    icon: 'table',
+    path: '/test',
+    component: './TestWork',
+  },
+  {
     path: '/',
     redirect: '/welcome',
   },
